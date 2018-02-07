@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PixomaticGoogleMap</string>
+    <string name="title_activity_map">Map</string>
+    <string name="first_point">First point</string>
+    <string name="end_point">End Point</string>
+    <string name="start_point">Start Point</string>
+</resources>
